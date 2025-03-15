@@ -1,0 +1,6 @@
+Data Types
+    Numeric (Interger, Complex Number, Float)
+    Dictionary
+    Boolean
+    Set
+    Sequence (Strings, List,. Tupel)
